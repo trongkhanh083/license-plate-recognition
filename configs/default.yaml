@@ -1,0 +1,10 @@
+# configs/default.yaml
+
+# input directory
+raw_dir: data/raw
+
+# output directories
+output:
+  plate_dir: "output/plate"
+  detected_plate_dir: "output/detected_plate"
+  text_dir: "output/text"
